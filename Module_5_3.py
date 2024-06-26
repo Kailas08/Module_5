@@ -6,4 +6,4 @@ class Building:
 
 for i in range(1, 41):
     Building()
-    print('Объект№ ', i)
+    print('Объект № ', i)
